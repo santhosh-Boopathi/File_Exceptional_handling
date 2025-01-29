@@ -50,7 +50,7 @@ def exception_handling():
 
     #name_error
     try:
-        a,b=10,20
+        # a,b=10,20
         sum=a+b
         print(sum)
 
